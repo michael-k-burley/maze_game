@@ -6,8 +6,8 @@
 <img src="https://github.com/michael-k-burley/maze_game/assets/71338143/6147875f-395d-4f6e-9e96-8077f5091e73" alt="Maze Game Photo" width="300px" title="A random generated maze">
 
 #### How to play
-Players can use the arrows keys to navigate the maze.  
-The game has start & exit buttons as well as a button to generate a new maze. 
+Players can use the arrow keys to navigate the maze.  
+The game has start and exit buttons as well as a button to generate a new maze. 
 
 #### Intention
 I built this project in order to gain a better understanding of how openGL works  
@@ -25,7 +25,7 @@ No doubt there are various improvements that could be made.
 + GLM &emsp;&emsp;&nbsp; - for vector and matrix operations
 
 #### How to install and run
-I only ran the program on Ubuntu 22.04.  
+I only ran the program on Ubuntu 22.04
 Probably should try putting it in a docker container.
 
 #### Here is a short list of some resources that I found useful:
