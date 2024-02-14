@@ -25,7 +25,7 @@ No doubt there are various improvements that could be made.
 + GLM &emsp;&emsp;&nbsp; - for vector and matrix operations
 
 #### How to install and run
-I only ran the program on Ubuntu 22.04
+I only ran the program on Ubuntu 22.04  
 Probably should try putting it in a docker container.
 
 #### Here is a short list of some resources that I found useful:
